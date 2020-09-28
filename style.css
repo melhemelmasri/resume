@@ -113,9 +113,6 @@ img.avatar {
 }
 
 .job-date-container {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 5px;
   font-size: 18px;
 }
 
