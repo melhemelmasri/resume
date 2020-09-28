@@ -120,6 +120,11 @@ img.avatar {
   color: #236FB2;
 }
 
+.job-date {
+  font-size: 18px;
+  color: #236FB2;
+}
+
 .job-company {
   font-weight: bold;
   line-height: 1.2;
