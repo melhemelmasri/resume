@@ -112,6 +112,13 @@ img.avatar {
   border-bottom: none;
 }
 
+.job-date {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
 .job-title-container {
   display: flex;
   justify-content: space-between;
