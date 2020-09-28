@@ -112,7 +112,7 @@ img.avatar {
   border-bottom: none;
 }
 
-.job-date {
+.job-date-container {
   display: flex;
   justify-content: space-between;
   margin-bottom: 5px;
